@@ -1,0 +1,14 @@
+﻿{
+    "latest_version":  "0.22.22",
+    "download_url":  "https://github.com/BoredDerg1230/RealmDerg-Updates/releases/download/v0.22.22/RealmDerg.exe",
+    "sha256":  "714208b9838f52f50aa90b0eb2b29d6275594b9fd864e534a21fa3d66fe46a88",
+    "releases":  [
+                     {
+                         "version":  "0.22.22",
+                         "date":  "2026-10-18",
+                         "changes":  [
+                                         "Best items per stat: T15 items are never shown, soulbound (SB) and normal versions shown once, \"Show more\" button for each type"
+                                     ]
+                     }
+                 ]
+}
