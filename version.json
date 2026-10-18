@@ -1,0 +1,14 @@
+{
+    "latest_version":  "0.22.28",
+    "download_url":  "https://github.com/BoredDerg1230/RealmDerg-Updates/releases/download/v0.22.28/RealmDerg.exe",
+    "sha256":  "d2e8d9b92cd553fddcd6b7795bf753f68646f3e65d896b448e3d544afc7edf93",
+    "releases":  [
+                     {
+                         "version":  "0.22.28",
+                         "date":  "2026-10-18",
+                         "changes":  [
+                                         "Best items per stat: new \"Weapon damage (DPS)\" ranking; Flails, Dual Blades, Longbows, Spellblades, Morning Stars and Tachis have their own type buttons; event items appear only while their event is on; cleaner layout. About window: new coloured night-sky picture (moon, planets, asteroid, stars)"
+                                     ]
+                     }
+                 ]
+}
